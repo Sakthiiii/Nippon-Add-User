@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+/* 
+.suggestions{
+  background-color: lightgray;
+  width: 200px;
+  max-height: 200px;
+
+} */
+.suggestion{
+  text-align: left;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left:4px ;
+  cursor: pointer;
+}
+
+.suggestion:hover{
+  background-color: lightgray;
+}
